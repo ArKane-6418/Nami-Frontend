@@ -168,11 +168,11 @@ export default function App() {
 
       <div className="dataContainer">
         <div className="header">
-          <span role="img" aria-label="welcome message">Hey there! 🌊</span>
+          <span role="img" aria-label="welcome message">Welcome! 🌊</span>
         </div>
 
         <div className="bio">
-        I am Joshua! Connect your Ethereum wallet and wave at me!
+          <span role="img" aria-label="initial">Hiya! I'm Joshua! Connect your Metamask wallet and "wave" at me! 😆</span>
         </div>
 
         <button className="waveButton" onClick={wave}>
