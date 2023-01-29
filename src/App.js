@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { ethers } from "ethers";
 import abi from "./utils/WavePortal.json"
 import './App.css';
-require("dotenv").config();
 
 const getEthereumObject = () => window.ethereum;
 
@@ -11,7 +10,7 @@ export default function App() {
   const [currentWaves, setCurrentWaves] = useState(0);
   const [allWaves, setAllWaves] = useState([]);
 
-  const contractAddress = process.env.CONTRACT_ADDRESS;
+  const contractAddress = "0x040d53AD305d49F011A1Fe6009a5ff529403Dfa6";
   
   // ABI is a file generated when we compiled our smart contract
   const contractABI = abi.abi;
