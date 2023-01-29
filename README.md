@@ -1,7 +1,7 @@
 # Nami 🌊 
 
 ## **Welcome!**
-This is my first project in the Web3 space, inspired by [Buildspace](https://buildspace.so/p/build-solidity-web3-app)
+This is my first Ethereum decentralized app (dApp), inspired by [Buildspace](https://buildspace.so/p/build-solidity-web3-app)
 
 ## **Frontend**
 The frontend was written in React and deployed on Vercel. You can check out the deployed site [here](https://nami-prod.vercel.app/).
