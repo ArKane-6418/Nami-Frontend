@@ -15,7 +15,7 @@ This project uses the [Vercel CLI](https://vercel.com/docs/cli) for local develo
 ## Project setup
 1. Run `npm install` in your terminal to install all of the required packages
 2. Run either `npm start` or `vercel dev` to run the site locally.
-3. If you want to modify the smart contract, head to https://github.com/ArKane-6418/Nami and follow the instructions in the README
+3. If you want to modify the smart contract, head to https://github.com/ArKane-6418/Nami and follow the instructions in the [README](https://github.com/ArKane-6418/Nami/blob/main/README.md)
 
 ## **Future Plans**
 - [ ] Modify the CSS futher to make the site more presentable and accessible  
